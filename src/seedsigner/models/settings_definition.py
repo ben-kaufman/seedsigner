@@ -410,6 +410,7 @@ class SettingsDefinition:
                       selection_options=SettingsConstants.ALL_COORDINATORS,
                       default_value=[
                           SettingsConstants.COORDINATOR__BLUE_WALLET,
+                          SettingsConstants.COORDINATOR__KEEPER,
                           SettingsConstants.COORDINATOR__NUNCHUK,
                           SettingsConstants.COORDINATOR__SPARROW,
                           SettingsConstants.COORDINATOR__SPECTER_DESKTOP,
